@@ -1,5 +1,6 @@
 # Thesis
 Thesis: Study of the Temperature Dependent Electron Mobility in GaN/ScAlN Heterostructures
+📄 [View Thesis PDF](https://github.com/SeanYang111/Thesis/raw/main/Thesis_Bo-Shiang%20Yang.pdf)
 ## Abstract
 III-nitride semiconductor heterostructures have emerged as critical materials for next-generation
 electronic devices. Structures such as AlGaN/GaN and ScAlN/GaN demonstrate significant
